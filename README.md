@@ -6,6 +6,19 @@
 * [In-Memory Notepad](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Golang%20Projects/In-Memory%20Notepad)  
 * [Obscene Vocabulary Checker](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Golang%20Projects/Obscene%20Vocabulary%20Checker)  
 * [University Admission Procedure](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Golang%20Projects/University%20Admission%20Procedure)  
+### Java Projects  
+### [Kotlin Projects](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Kotlin%20Projects)
+* [ASCII Text Signature](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Kotlin%20Projects/ASCII%20Text%20Signature)
+* [Flashcards](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Kotlin%20Projects/Flashcards)
+* [Minesweeper](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Kotlin%20Projects/Minesweeper)
+* [Numerical System Converter](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Kotlin%20Projects/Numerical%20System%20Converter)
+* [Parking Lot](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Kotlin%20Projects/Parking%20Lot)
+* [Seam Carving](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Kotlin%20Projects/Seam%20Carving)
+* [Simple Chatty Bot](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Kotlin%20Projects/Simple%20Chatty%20Bot)
+* [Simple Search Engine](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Kotlin%20Projects/Simple%20Search%20Engine)
+* [Smart Calculator](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Kotlin%20Projects/Smart%20Calculator)
+* [Sorting Tool](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Kotlin%20Projects/Sorting%20Tool)
+
 ### [Python Projects](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Python%20Projects)  
 * [Coffee Machine](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Python%20Projects/Coffee%20Machine)  
 * [Credit Calculator](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Python%20Projects/Credit%20Calculator)  
@@ -28,6 +41,4 @@
 * [Tic-Tac-Toe with AI](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Python%20Projects/Tic-Tac-Toe%20with%20AI)  
 * [To-Do List](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Python%20Projects/To-Do%20List)  
 * [Zookeeper](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Python%20Projects/Zookeeper)  
-### Java Projects  
-### Kotlin Projects  
 ### Web Projects
