@@ -5,7 +5,7 @@
 * [Flashcards](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Golang%20Projects/Flashcards)  
 * [In-Memory Notepad](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Golang%20Projects/In-Memory%20Notepad)  
 * [Obscene Vocabulary Checker](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Golang%20Projects/Obscene%20Vocabulary%20Checker)  
-* [UniversityAdmissionProcedure](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Python%20Projects/)  
+* [University Admission Procedure](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Python%20Projects/University%20Admission%20Procedure)  
 ### [Python Projects](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Python%20Projects)  
 * [Coffee Machine](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Python%20Projects/Coffee%20Machine)  
 * [Credit Calculator](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Python%20Projects/Credit%20Calculator)  
