@@ -1,5 +1,5 @@
 # JetBrainsAcademy  
-### [Golang Projects](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Golang%20Projects)  
+### [Golang Projects](DeviousBard/JetBrainsAcademy/tree/master/Golang%20Projects)  
 * [Cipher Decoder](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Golang%20Projects/Cipher%20Decoder)
 * [Coffee Machine](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Golang%20Projects/Coffee%20Machine)  
 * [Flashcards](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Golang%20Projects/Flashcards)  
