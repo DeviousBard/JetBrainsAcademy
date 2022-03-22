@@ -8,6 +8,7 @@
 * [University Admission Procedure](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Golang%20Projects/University%20Admission%20Procedure)  
 ### [Java Projects](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects)  
 * [Simple Chatty Bot](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects/Simple%20Chatty%20Bot)
+* [Cinema Room Manager](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects/Cinema%20Room%20Manager)
 ### [Kotlin Projects](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Kotlin%20Projects)
 * [ASCII Text Signature](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Kotlin%20Projects/ASCII%20Text%20Signature)
 * [Flashcards](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Kotlin%20Projects/Flashcards)
