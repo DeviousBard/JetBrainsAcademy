@@ -11,6 +11,7 @@
 * [Bulls and Cows](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects/Bulls%20and%20Cows)
 * [Cinema Room Manager](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects/Cinema%20Room%20Manager)
 * [Desktop Tic-Tac-Toe](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects/Desktop%20Tic-Tac-Toe)
+* [HyperMetro](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects/HyperMetro)
 * [Maze Runner](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects/Maze%20Runner)
 * [Sharp Shooter](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects/Sharp%20Shooter)
 * [Simple Chatty Bot](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects/Simple%20Chatty%20Bot)
