@@ -8,6 +8,7 @@
 * [University Admission Procedure](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Golang%20Projects/University%20Admission%20Procedure)  
 ### [Java Projects](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects)  
 * [Battleship](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects/Battleship)
+* [Budget Manager](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects/Budget%20Manager)
 * [Bulls and Cows](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects/Bulls%20and%20Cows)
 * [Car Sharing](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects/Car%20Sharing)
 * [Cinema Room Manager](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects/Cinema%20Room%20Manager)
