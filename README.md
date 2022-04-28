@@ -7,6 +7,7 @@
 * [Obscene Vocabulary Checker](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Golang%20Projects/Obscene%20Vocabulary%20Checker)  
 * [University Admission Procedure](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Golang%20Projects/University%20Admission%20Procedure)  
 ### [Java Projects](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects)  
+* [Amazing Numbers](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects/Amazing%20Numbers)
 * [Battleship](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects/Battleship)
 * [Budget Manager](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects/Budget%20Manager)
 * [Bulls and Cows](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects/Bulls%20and%20Cows)
