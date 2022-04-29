@@ -32,6 +32,7 @@
 
 ### [Python Projects](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Python%20Projects)  
 * [Coffee Machine](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Python%20Projects/Coffee%20Machine)  
+* [Create Glowing Bacteria](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Python%20Projects/Create%20Glowing%20Bacteria)  
 * [Credit Calculator](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Python%20Projects/Credit%20Calculator)  
 * [Dominoes](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Python%20Projects/Dominoes)  
 * [Duskers](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Python%20Projects/Duskers)  
