@@ -22,6 +22,7 @@
 * [ASCII Text Signature](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Kotlin%20Projects/ASCII%20Text%20Signature)
 * [Connect Four](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Kotlin%20Projects/Connect%20Four)
 * [Flashcards](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Kotlin%20Projects/Flashcards)
+* [Indigo Card Game](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Kotlin%20Projects/Indigo%20Card%20Game)
 * [Minesweeper](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Kotlin%20Projects/Minesweeper)
 * [Numerical System Converter](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Kotlin%20Projects/Numerical%20System%20Converter)
 * [Parking Lot](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Kotlin%20Projects/Parking%20Lot)
