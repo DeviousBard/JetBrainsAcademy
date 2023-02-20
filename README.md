@@ -13,6 +13,7 @@
 * [Budget Manager](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects/Budget%20Manager)
 * [Bulls and Cows](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects/Bulls%20and%20Cows)
 * [Car Sharing](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects/Car%20Sharing)
+* [Chuck Norris Cipher Encoder](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects/Chuck%20Norris%20Cipher%20Encoder)
 * [Cinema Room Manager](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects/Cinema%20Room%20Manager)
 * [Desktop Tic-Tac-Toe](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects/Desktop%20Tic-Tac-Toe)
 * [HyperMetro](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects/HyperMetro)
