@@ -18,6 +18,7 @@
 * [Desktop Tic-Tac-Toe](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects/Desktop%20Tic-Tac-Toe)
 * [HyperMetro](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects/HyperMetro)
 * [Maze Runner](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects/Maze%20Runner)
+* [Readability Score](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects/Readability%20Score)
 * [Sharp Shooter](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects/Sharp%20Shooter)
 * [Simple Chatty Bot](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Java%20Projects/Simple%20Chatty%20Bot)
 ### [Kotlin Projects](https://github.com/DeviousBard/JetBrainsAcademy/tree/master/Kotlin%20Projects)
